@@ -10,6 +10,7 @@ The entire pipeline is implemented **inside Snowflake using SQL**, from raw inge
 
 ## 🏗️ Architecture Overview
 
+![Hotel Analytics Architecture](hotel_analytics.png)
 
 
 ### Data Flow
